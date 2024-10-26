@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask environment files
+instance/
+.env
+
+# Flask cache and session files
+flask_session/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# VS Code files
+.vscode/
+*.code-workspace
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Virtual environment (if used)
+venv/
+env/
+.venv/
+
+# Videos and large media files
+videos/*.mp4
+videos/*.avi
+
+# PyTorch model checkpoints (if you save models)
+*.pt
+*.pth
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Dependencies
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
