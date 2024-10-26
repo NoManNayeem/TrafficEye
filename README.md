@@ -65,6 +65,27 @@ TrafficEye/
 └── README.md               # Project documentation
 ```
 
+
+
+## Screenshots
+
+Here are some screenshots showcasing TrafficEye's interface and features:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="./screenshots/Screenshot1.png" alt="Screenshot 1" width="45%" style="margin-bottom: 10px;">
+  <img src="./screenshots/Screenshot2.png" alt="Screenshot 2" width="45%" style="margin-bottom: 10px;">
+  
+  <img src="./screenshots/Screenshot3.png" alt="Screenshot 3" width="45%" style="margin-bottom: 10px;">
+  <img src="./screenshots/Screenshot4.png" alt="Screenshot 4" width="45%" style="margin-bottom: 10px;">
+
+</div>
+
+
+
+
+
+
 ## Future Enhancements
 
 - **Enhanced Tracking**: Improve vehicle tracking for more accurate counting over time.
